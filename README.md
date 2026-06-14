@@ -1,5 +1,7 @@
 **Hi everyone**, so **BottleBot** is a simple Slack bot built during the **Stardance event at Hack Club**.
-<img width="1024" height="1024" alt="BottleBot Logo" src="https://github.com/user-attachments/assets/9041427d-5481-4a64-9581-cbb760897885" />
+
+<img width="1024" height="1024" alt="BottleBot Logo (1)" src="https://github.com/user-attachments/assets/0515a62c-f598-47e5-abdb-0b953428c51e" />
+
 ## What exactly is it?
 
 It is a bot available now 24/7 in **Hack Club Slack**, which one can have fun with by using the commands `/bottle-send`, `/bottle-read`, `/bottle-stats` and `/bottle-about`, with the main aim being to be able to send and store anonymous messages in the bottle (which is essentially just a simple list stored in a JSON file by the bot, and it holds the secret message itself as well as the timestamp but does not capture the username to give anonymity), and then one can read any message that was sent to the bottle to date randomly (spread rumors or have fun; it's your take), and then the about command tells you the lore of the bottle and the bottlebot, and through the stats command you can get the number of messages sent to the bottle to date.
