@@ -1,6 +1,7 @@
 **Hi everyone**, so **BottleBot** is a simple Slack bot built during the **Stardance event at Hack Club**.
 
-<img width="1024" height="1024" alt="BottleBot Logo (1)" src="https://github.com/user-attachments/assets/0515a62c-f598-47e5-abdb-0b953428c51e" />
+<img width="822" height="822" alt="BottleBot Logo (1)" src="https://github.com/user-attachments/assets/f2b5bed9-675d-47f8-b718-fb6acd858e84" />
+
 
 ## What exactly is it?
 
